@@ -1,7 +1,7 @@
 ;      -  =   _  + 
 global _start
 section .data
-    name db "abdellhall ! hello world how are yooou all mda9 mda7 ",0x0a,0x00
+    name db "abdellhall ! hello world how are you all 1-mda-9 1-mda-7 ",0x0a,0x00
 section .text
 _start:
     mov rdx,name
